@@ -57,10 +57,7 @@
 
 
 
-  <title>
-    Zexi
-    
-  </title><!-- hexo-inject:begin --><!-- hexo-inject:end -->
+  <title> About · Zexi </title><!-- hexo-inject:begin --><!-- hexo-inject:end -->
 </head>
 <body>
   <!-- hexo-inject:begin --><!-- hexo-inject:end --><div class="container">
@@ -105,19 +102,58 @@
         <div class="main-wrapper">
           
     
-      <div class="about syuanpi fadeInRightShort">
-        <h2 class="title"> About </h2>
-        <div class="content">
-          
-            
+  
+  <article class="
+  post
+   is_post 
+  ">
+    <header class="post-header">
+      <div class="post-time syuanpi fadeInRightShort back-1">
+        <div class="post-time-wrapper">
+          <time>2019-07-07</time>
           
         </div>
       </div>
+      <h2 class="post-title syuanpi fadeInRightShort back-2">
+        
+          About
+        
+      </h2>
+    </header>
+    <div class="post-content syuanpi fadeInRightShort back-3">
       
+        
+      
+    
+    </div>
+    
+    
       
 
+      
     
+  </article>
   
+    
+  <nav class="article-page">
+    
+    
+      <a href="/2019/07/07/test2/" id="art-right" class="art-right">
+        <span class="prev-title">
+          test2<i class="iconfont icon-enter"></i>
+        </span>
+      </a>
+    
+  </nav>
+
+
+    
+
+
+  
+  
+
+
         </div>
       </main>
       <footer class="footer syuanpi fadeIn" id="footer">
@@ -193,8 +229,22 @@
   <script src="/script/scheme/balance.js"></script>
 
 
-<script src="/script/bootstarp.js"></script><!-- hexo-inject:begin --><!-- hexo-inject:end -->
+<script src="/script/bootstarp.js"></script>
 
+
+<script>
+if (nlviconfig.theme.toc) {
+  setTimeout(function() {
+    if (nlviconfig.theme.scheme === 'balance') {
+      $("#header").addClass("show_toc");
+    } else if (nlviconfig.theme.scheme === 'banderole') {
+      $(".container-inner").addClass("has_toc");
+      $(".post-toc .title").addClass("show");
+      $(".toc-inner").addClass("show");
+    }
+  }, 1000);
+}
+</script><!-- hexo-inject:begin --><!-- hexo-inject:end -->
 
 
 
