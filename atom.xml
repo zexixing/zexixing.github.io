@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-07-07T06:39:19.159Z</updated>
+  <updated>2019-07-07T08:29:45.075Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>testtt</title>
+    <link href="http://yoursite.com/2019/07/07/testtt/"/>
+    <id>http://yoursite.com/2019/07/07/testtt/</id>
+    <published>2019-07-07T05:57:45.000Z</published>
+    <updated>2019-07-07T08:29:45.075Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="test-for-latex"><a href="#test-for-latex" class="headerlink" title="test for latex"></a>test for latex</h1><script type="math/tex; mode=display">\begin{eqnarray}\nabla\cdot\vec{E} &=& \frac{\rho}{\epsilon_0} \\\nabla\cdot\vec{B} &=& 0 \\\nabla\times\vec{E} &=& -\frac{\partial B}{\partial t} \\\nabla\times\vec{B} &=& \mu_0\left(\vec{J}+\epsilon_0\frac{\partial E}{\partial t} \right)\end{eqnarray}</script><h2 id="i-do-not-understant"><a href="#i-do-not-understant" class="headerlink" title="i do not understant"></a>i do not understant</h2><p>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9</p><h1 id="just-for-test"><a href="#just-for-test" class="headerlink" title="just for test"></a>just for test</h1><p>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;test-for-latex&quot;&gt;&lt;a href=&quot;#test-for-latex&quot; class=&quot;headerlink&quot; title=&quot;test for latex&quot;&gt;&lt;/a&gt;test for latex&lt;/h1&gt;&lt;script type=&quot;math/tex; m
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>test2</title>
@@ -34,27 +55,6 @@
 \begin{eqnarray}
 \nabla\cdot\vec{E} &amp;=&amp; \frac{\rho}{\epsilon_0} \\
 \nabla\cdot\
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>testtt</title>
-    <link href="http://yoursite.com/2019/07/07/testtt/"/>
-    <id>http://yoursite.com/2019/07/07/testtt/</id>
-    <published>2019-07-07T05:57:45.000Z</published>
-    <updated>2019-07-07T08:29:45.075Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="test-for-latex"><a href="#test-for-latex" class="headerlink" title="test for latex"></a>test for latex</h1><script type="math/tex; mode=display">\begin{eqnarray}\nabla\cdot\vec{E} &=& \frac{\rho}{\epsilon_0} \\\nabla\cdot\vec{B} &=& 0 \\\nabla\times\vec{E} &=& -\frac{\partial B}{\partial t} \\\nabla\times\vec{B} &=& \mu_0\left(\vec{J}+\epsilon_0\frac{\partial E}{\partial t} \right)\end{eqnarray}</script><h2 id="i-do-not-understant"><a href="#i-do-not-understant" class="headerlink" title="i do not understant"></a>i do not understant</h2><p>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9</p><h1 id="just-for-test"><a href="#just-for-test" class="headerlink" title="just for test"></a>just for test</h1><p>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;test-for-latex&quot;&gt;&lt;a href=&quot;#test-for-latex&quot; class=&quot;headerlink&quot; title=&quot;test for latex&quot;&gt;&lt;/a&gt;test for latex&lt;/h1&gt;&lt;script type=&quot;math/tex; m
       
     
     </summary>
