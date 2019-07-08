@@ -2,35 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/categories/index.html</loc>
+    <loc>https://zexixing.github.io/2019/07/07/test2/</loc>
+    
+    <lastmod>2019-07-08T12:40:25.049Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/2019/07/07/testtt/</loc>
+    
+    <lastmod>2019-07-08T12:30:50.197Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/about/index.html</loc>
+    
+    <lastmod>2019-07-08T11:04:43.421Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/categories/index.html</loc>
     
     <lastmod>2019-07-07T15:51:14.366Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
+    <loc>https://zexixing.github.io/tags/index.html</loc>
     
     <lastmod>2019-07-07T15:50:54.457Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/07/07/testtt/</loc>
-    
-    <lastmod>2019-07-07T08:29:45.075Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2019/07/07/test2/</loc>
-    
-    <lastmod>2019-07-07T06:39:19.159Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2019/07/07/hello-world/</loc>
+    <loc>https://zexixing.github.io/2019/07/07/hello-world/</loc>
     
     <lastmod>2019-07-07T03:58:52.230Z</lastmod>
     

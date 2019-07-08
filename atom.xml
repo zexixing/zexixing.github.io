@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2019-07-07T08:29:45.075Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://zexixing.github.io/"/>
+  <updated>2019-07-08T12:40:25.049Z</updated>
+  <id>https://zexixing.github.io/</id>
   
   <author>
     <name>Xing Zexi</name>
@@ -17,19 +17,23 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>testtt</title>
-    <link href="http://yoursite.com/2019/07/07/testtt/"/>
-    <id>http://yoursite.com/2019/07/07/testtt/</id>
+    <title>test2</title>
+    <link href="https://zexixing.github.io/2019/07/07/test2/"/>
+    <id>https://zexixing.github.io/2019/07/07/test2/</id>
     <published>2019-07-07T05:57:45.000Z</published>
-    <updated>2019-07-07T08:29:45.075Z</updated>
+    <updated>2019-07-08T12:40:25.049Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="test-for-latex"><a href="#test-for-latex" class="headerlink" title="test for latex"></a>test for latex</h1><p>$$<br>\begin{eqnarray}<br>\nabla\cdot\vec{E} &amp;=&amp; \frac{\rho}{\epsilon_0} \<br>\nabla\cdot\vec{B} &amp;=&amp; 0 \<br>\nabla\times\vec{E} &amp;=&amp; -\frac{\partial B}{\partial t} \<br>\nabla\times\vec{B} &amp;=&amp; \mu_0\left(\vec{J}+\epsilon_0\frac{\partial E}{\partial t} \right)<br>\end{eqnarray}<br>$$</p><h2 id="i-do-not-understant"><a href="#i-do-not-understant" class="headerlink" title="i do not understant"></a>i do not understant</h2><p>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9</p><h1 id="just-for-test"><a href="#just-for-test" class="headerlink" title="just for test"></a>just for test</h1><p>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9</p>]]></content>
+    <content type="html"><![CDATA[<p>test for latex</p><script type="math/tex; mode=display">\begin{eqnarray}\nabla\cdot\vec{E} &=& \frac{\rho}{\epsilon_0} \\\\\nabla\cdot\vec{B} &=& 0 \\\\\nabla\times\vec{E} &=& -\frac{\partial B}{\partial t} \\\\\nabla\times\vec{B} &=& \mu_0\left(\vec{J}+\epsilon_0\frac{\partial E}{\partial t} \right)\end{eqnarray}</script>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;test-for-latex&quot;&gt;&lt;a href=&quot;#test-for-latex&quot; class=&quot;headerlink&quot; title=&quot;test for latex&quot;&gt;&lt;/a&gt;test for latex&lt;/h1&gt;&lt;p&gt;$$&lt;br&gt;\begin{eqnarray}
+        &lt;p&gt;test for latex&lt;/p&gt;
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;
+\begin{eqnarray}
+\nabla\cdot\vec{E} &amp;=&amp; \frac{\rho}{\epsilon_0} \\\\
+\nabla\cdo
       
     
     </summary>
@@ -38,19 +42,19 @@
   </entry>
   
   <entry>
-    <title>test2</title>
-    <link href="http://yoursite.com/2019/07/07/test2/"/>
-    <id>http://yoursite.com/2019/07/07/test2/</id>
+    <title>testtt</title>
+    <link href="https://zexixing.github.io/2019/07/07/testtt/"/>
+    <id>https://zexixing.github.io/2019/07/07/testtt/</id>
     <published>2019-07-07T05:57:45.000Z</published>
-    <updated>2019-07-07T06:39:19.159Z</updated>
+    <updated>2019-07-08T12:30:50.197Z</updated>
     
-    <content type="html"><![CDATA[<p>test for latex<br>$$<br>\begin{eqnarray}<br>\nabla\cdot\vec{E} &amp;=&amp; \frac{\rho}{\epsilon_0} \<br>\nabla\cdot\vec{B} &amp;=&amp; 0 \<br>\nabla\times\vec{E} &amp;=&amp; -\frac{\partial B}{\partial t} \<br>\nabla\times\vec{B} &amp;=&amp; \mu_0\left(\vec{J}+\epsilon_0\frac{\partial E}{\partial t} \right)<br>\end{eqnarray}<br>$$</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="test-for-latex"><a href="#test-for-latex" class="headerlink" title="test for latex"></a>test for latex</h1><script type="math/tex; mode=display">\begin{eqnarray}\nabla\cdot\vec{E} &=& \frac{\rho}{\epsilon_0} \\\nabla\cdot\vec{B} &=& 0 \\\nabla\times\vec{E} &=& -\frac{\partial B}{\partial t} \\\nabla\times\vec{B} &=& \mu_0\left(\vec{J}+\epsilon_0\frac{\partial E}{\partial t} \right)\end{eqnarray}</script><h2 id="i-do-not-understant"><a href="#i-do-not-understant" class="headerlink" title="i do not understant"></a>i do not understant</h2><p>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9</p><h1 id="just-for-test"><a href="#just-for-test" class="headerlink" title="just for test"></a>just for test</h1><p>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;test for latex&lt;br&gt;$$&lt;br&gt;\begin{eqnarray}&lt;br&gt;\nabla\cdot\vec{E} &amp;amp;=&amp;amp; \frac{\rho}{\epsilon_0} \&lt;br&gt;\nabla\cdot\vec{B} &amp;amp;=&amp;amp; 0 
+        &lt;h1 id=&quot;test-for-latex&quot;&gt;&lt;a href=&quot;#test-for-latex&quot; class=&quot;headerlink&quot; title=&quot;test for latex&quot;&gt;&lt;/a&gt;test for latex&lt;/h1&gt;&lt;script type=&quot;math/tex; m
       
     
     </summary>
@@ -60,8 +64,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/07/07/hello-world/"/>
-    <id>http://yoursite.com/2019/07/07/hello-world/</id>
+    <link href="https://zexixing.github.io/2019/07/07/hello-world/"/>
+    <id>https://zexixing.github.io/2019/07/07/hello-world/</id>
     <published>2019-07-07T03:58:52.230Z</published>
     <updated>2019-07-07T03:58:52.230Z</updated>
     

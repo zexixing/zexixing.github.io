@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>testtt</title>
-      <link href="/2019/07/07/testtt/"/>
-      <url>/2019/07/07/testtt/</url>
+      <title>test2</title>
+      <link href="/2019/07/07/test2/"/>
+      <url>/2019/07/07/test2/</url>
       
-        <content type="html"><![CDATA[<h1 id="test-for-latex"><a href="#test-for-latex" class="headerlink" title="test for latex"></a>test for latex</h1><p>$$<br>\begin{eqnarray}<br>\nabla\cdot\vec{E} &amp;=&amp; \frac{\rho}{\epsilon_0} \<br>\nabla\cdot\vec{B} &amp;=&amp; 0 \<br>\nabla\times\vec{E} &amp;=&amp; -\frac{\partial B}{\partial t} \<br>\nabla\times\vec{B} &amp;=&amp; \mu_0\left(\vec{J}+\epsilon_0\frac{\partial E}{\partial t} \right)<br>\end{eqnarray}<br>$$</p><h2 id="i-do-not-understant"><a href="#i-do-not-understant" class="headerlink" title="i do not understant"></a>i do not understant</h2><p>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9</p><h1 id="just-for-test"><a href="#just-for-test" class="headerlink" title="just for test"></a>just for test</h1><p>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9</p>]]></content>
+        <content type="html"><![CDATA[<p>test for latex</p><script type="math/tex; mode=display">\begin{eqnarray}\nabla\cdot\vec{E} &=& \frac{\rho}{\epsilon_0} \\\\\nabla\cdot\vec{B} &=& 0 \\\\\nabla\times\vec{E} &=& -\frac{\partial B}{\partial t} \\\\\nabla\times\vec{B} &=& \mu_0\left(\vec{J}+\epsilon_0\frac{\partial E}{\partial t} \right)\end{eqnarray}</script>]]></content>
       
       
       
@@ -17,11 +17,11 @@
     
     
     <entry>
-      <title>test2</title>
-      <link href="/2019/07/07/test2/"/>
-      <url>/2019/07/07/test2/</url>
+      <title>testtt</title>
+      <link href="/2019/07/07/testtt/"/>
+      <url>/2019/07/07/testtt/</url>
       
-        <content type="html"><![CDATA[<p>test for latex<br>$$<br>\begin{eqnarray}<br>\nabla\cdot\vec{E} &amp;=&amp; \frac{\rho}{\epsilon_0} \<br>\nabla\cdot\vec{B} &amp;=&amp; 0 \<br>\nabla\times\vec{E} &amp;=&amp; -\frac{\partial B}{\partial t} \<br>\nabla\times\vec{B} &amp;=&amp; \mu_0\left(\vec{J}+\epsilon_0\frac{\partial E}{\partial t} \right)<br>\end{eqnarray}<br>$$</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="test-for-latex"><a href="#test-for-latex" class="headerlink" title="test for latex"></a>test for latex</h1><script type="math/tex; mode=display">\begin{eqnarray}\nabla\cdot\vec{E} &=& \frac{\rho}{\epsilon_0} \\\nabla\cdot\vec{B} &=& 0 \\\nabla\times\vec{E} &=& -\frac{\partial B}{\partial t} \\\nabla\times\vec{B} &=& \mu_0\left(\vec{J}+\epsilon_0\frac{\partial E}{\partial t} \right)\end{eqnarray}</script><h2 id="i-do-not-understant"><a href="#i-do-not-understant" class="headerlink" title="i do not understant"></a>i do not understant</h2><p>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9</p><h1 id="just-for-test"><a href="#just-for-test" class="headerlink" title="just for test"></a>just for test</h1><p>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9</p>]]></content>
       
       
       
