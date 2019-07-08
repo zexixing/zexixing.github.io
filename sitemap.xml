@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zexixing.github.io/tags/index.html</loc>
+    
+    <lastmod>2019-07-08T15:22:00.476Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://zexixing.github.io/2019/07/07/hello-world/</loc>
     
     <lastmod>2019-07-08T14:55:30.553Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>https://zexixing.github.io/categories/index.html</loc>
     
     <lastmod>2019-07-07T15:51:14.366Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/tags/index.html</loc>
-    
-    <lastmod>2019-07-07T15:50:54.457Z</lastmod>
     
   </url>
   
