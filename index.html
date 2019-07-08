@@ -200,7 +200,7 @@
                 
                 <section class="switch-part switch-part3">
                 
-                    <div id="js-aboutme">天体物理在读PhD // 我爱南大，现在港大，想去CIT // 太阳系小天体，X-ray和紫外天文学，也喜欢ISM；想做观测，各波段都做的那种 // 其实天文的东西我都感兴趣&gt; &lt; // 喜欢拍街头拍自然，喜欢乱跑 // 热爱物理！吹爆物理！ // 想跳舞啊，穿西装小高跟蹦蹦吧啦蹦 // KEEP ASKING</div>
+                    <div id="js-aboutme">天体物理在读PhD // 我爱南大，现在港大，想去CIT // 太阳系小天体，X-ray和紫外天文学；想做观测，各波段都做的那种 // 天文的各领域我都爱啊 // 喜欢拍街头拍自然，喜欢乱跑 // 我爱物理！吹爆物理！ // 想跳舞啊，穿西装小高跟蹦蹦吧啦蹦 // KEEP ASKING</div>
                 </section>
                 
             </div>
@@ -569,6 +569,21 @@ MathJax.Hub.Queue(function() {
 
 <script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
-  </div><!-- hexo-inject:begin --><!-- hexo-inject:end -->
+  </div>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+            inlineMath: [ ["$","$"], ["\\(","\\)"] ],
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+            processEscapes: true
+        }
+    });
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax();
+        for (var i = 0; i < all.length; ++i)
+            all[i].SourceElement().parentNode.className += ' has-jax';
+    });
+</script>
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><!-- hexo-inject:begin --><!-- hexo-inject:end -->
 </body>
 </html>
