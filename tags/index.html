@@ -86,9 +86,14 @@
 
 
 
-    <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56ff76c972fc0cf9"></script><!-- hexo-inject:begin --><!-- hexo-inject:end -->
+    <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56ff76c972fc0cf9"></script>
 
 
+
+
+
+  <link rel="stylesheet" href="/lib/gitalk/gitalk.css">
+  <script src="/lib/gitalk/gitalk.min.js"></script><!-- hexo-inject:begin --><!-- hexo-inject:end -->
 
 
 </head></html>
@@ -421,23 +426,22 @@
 
 
 
-  
-  <div id="git"></div>
-<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
-<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
-<script>
-var gitment = new Gitment({
-  id: 'page_s_blog_{{ date(page.date, "YYYY-MM-DD hh:mm:ss") }}',
-  owner: 'zexixing',
-  repo: 'zexixing.github.io',
-  oauth: {
-    client_id: 'faeb3ecdf5a480bc4e70',
-    client_secret: '4a3848be3657ef92fffbab87e5a6995493457',
-  },
-});
-gitment.render('git');
-</script>
-  
+<div class="gitalk">
+    <div id="gitalk-container"></div>
+    <script type="text/javascript">
+        const gitalk = new Gitalk({
+            clientID: 'faeb3ecdf5a480bc4e70',
+            clientSecret: '4a3848be3657ef92fffbab87e5a699549345757e',
+            repo: 'zexixing.github.io',
+            owner: 'zexixing',
+            admin: ['zexixing'],
+            id: location.pathname,      // Ensure uniqueness and length less than 50
+            distractionFreeMode: false  // Facebook-like distraction free mode
+        })
+ 
+        gitalk.render('gitalk-container')
+    </script>
+</div>
 
 
 
