@@ -15,14 +15,17 @@
 
 
 
+<meta name="description" content="document.querySelectorAll(&apos;.github-emoji&apos;)           .forEach(el =&amp;gt; {             if (!el.dataset.src) { return; }             const img = document.createElement(&apos;img&apos;);             img.style">
 <meta property="og:type" content="website">
 <meta property="og:title" content="categories">
 <meta property="og:url" content="https://zexixing.github.io/categories/index.html">
 <meta property="og:site_name" content="Zexi">
+<meta property="og:description" content="document.querySelectorAll(&apos;.github-emoji&apos;)           .forEach(el =&amp;gt; {             if (!el.dataset.src) { return; }             const img = document.createElement(&apos;img&apos;);             img.style">
 <meta property="og:locale" content="zh-Hans">
 <meta property="og:updated_time" content="2019-07-07T15:51:14.366Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="categories">
+<meta name="twitter:description" content="document.querySelectorAll(&apos;.github-emoji&apos;)           .forEach(el =&amp;gt; {             if (!el.dataset.src) { return; }             const img = document.createElement(&apos;img&apos;);             img.style">
 
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
@@ -161,6 +164,8 @@
                         
                             <li><a href="/tags/">tags|分类</a></li>
                         
+                            <li><a href="/about/">about|关于我</a></li>
+                        
                         </ul>
                     </nav>
                     <nav class="header-nav">
@@ -227,6 +232,8 @@
                     <li><a href="/archives/">archive|时间轴</a></li>
                 
                     <li><a href="/tags/">tags|分类</a></li>
+                
+                    <li><a href="/about/">about|关于我</a></li>
                 
                 <div class="clearfix"></div>
                 </ul>
@@ -307,7 +314,25 @@
 
 
           
-        
+        <script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>
       
     </div>
     
