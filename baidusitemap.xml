@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://zexixing.github.io/2019/08/06/swift-uvot-get-dirty/</loc>
+    <loc>https://zexixing.github.io/blog/blog/2019/08/06/swift-uvot-get-dirty/</loc>
     <lastmod>2019-08-06</lastmod>
   </url>  <url>
-    <loc>https://zexixing.github.io/2019/07/07/hello-world/</loc>
+    <loc>https://zexixing.github.io/blog/blog/2019/07/06/hello-world/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
-    <loc>https://zexixing.github.io/2019/07/07/test/</loc>
+    <loc>https://zexixing.github.io/blog/blog/2019/07/07/test/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>
 </urlset>
