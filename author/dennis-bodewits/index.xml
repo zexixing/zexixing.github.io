@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dennis Bodewits | Zexi Xing | 邢泽曦</title>
+    <link>https://zexixing.github.io/author/dennis-bodewits/</link>
+      <atom:link href="https://zexixing.github.io/author/dennis-bodewits/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dennis Bodewits</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Zexi Xing | 邢泽曦</copyright><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zexixing.github.io/images/icon_huf17b0683134ab2634af24004d3329fb7_74806_512x512_fill_lanczos_center_2.png</url>
+      <title>Dennis Bodewits</title>
+      <link>https://zexixing.github.io/author/dennis-bodewits/</link>
+    </image>
+    
+    <item>
+      <title>The carbon monoxide-rich interstellar comet 2I/Borisov</title>
+      <link>https://zexixing.github.io/publication/hst_borisov/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://zexixing.github.io/publication/hst_borisov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Water production rates and activity of interstellar comet 2I/Borisov</title>
+      <link>https://zexixing.github.io/publication/swift_borisov/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://zexixing.github.io/publication/swift_borisov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Estimate of Water Production Rates of Comet C/2019 Y4 (ATLAS) from SWIFT/UVOT observations</title>
+      <link>https://zexixing.github.io/talk/example/</link>
+      <pubDate>Tue, 14 Apr 2020 13:00:00 +0000</pubDate>
+      <guid>https://zexixing.github.io/talk/example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
