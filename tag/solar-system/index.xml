@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solar System | Zexi Xing | 邢泽曦</title>
+    <link>https://zexixing.github.io/tag/solar-system/</link>
+      <atom:link href="https://zexixing.github.io/tag/solar-system/index.xml" rel="self" type="application/rss+xml" />
+    <description>Solar System</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Zexi Xing | 邢泽曦</copyright><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zexixing.github.io/images/icon_huf17b0683134ab2634af24004d3329fb7_74806_512x512_fill_lanczos_center_2.png</url>
+      <title>Solar System</title>
+      <link>https://zexixing.github.io/tag/solar-system/</link>
+    </image>
+    
+    <item>
+      <title>UV observations of comets</title>
+      <link>https://zexixing.github.io/project/comets/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://zexixing.github.io/project/comets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UV spectra of asteroids</title>
+      <link>https://zexixing.github.io/project/asteroids-grism/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://zexixing.github.io/project/asteroids-grism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interstellar comet 2I/Borisov</title>
+      <link>https://zexixing.github.io/project/2i-borisov/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://zexixing.github.io/project/2i-borisov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calibration of an X-ray telescope</title>
+      <link>https://zexixing.github.io/project/calibration/</link>
+      <pubDate>Tue, 25 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://zexixing.github.io/project/calibration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar Wind Charge Exchange (SWCX) of comets</title>
+      <link>https://zexixing.github.io/project/swcx/</link>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://zexixing.github.io/project/swcx/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
