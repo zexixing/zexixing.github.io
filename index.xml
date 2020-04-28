@@ -5,7 +5,7 @@
     <link>https://zexixing.github.io/</link>
       <atom:link href="https://zexixing.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Zexi Xing | 邢泽曦</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Zexi Xing | 邢泽曦</copyright><lastBuildDate>Mon, 20 Apr 2020 12:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Zexi Xing | 邢泽曦</copyright><lastBuildDate>Tue, 28 Apr 2020 16:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zexixing.github.io/images/icon_hua4270de9ebc4c670f64478251edcb5a0_66059_512x512_fill_lanczos_center_2.png</url>
       <title>Zexi Xing | 邢泽曦</title>
@@ -55,7 +55,70 @@
     </item>
     
     <item>
-      <title>Congrats to my first Nature paper (coauthor ;D)! Congrats Dennis!</title>
+      <title>NASA Reddit AMA on Comet Borisov, Comet Atlas, and 1998 OR2</title>
+      <link>https://zexixing.github.io/talk/borisov_reddit_ama/</link>
+      <pubDate>Tue, 28 Apr 2020 16:00:00 +0000</pubDate>
+      <guid>https://zexixing.github.io/talk/borisov_reddit_ama/</guid>
+      <description>&lt;p&gt;We are the NASA, ALMA, and university scientists studying comets and asteroids, here to answer your questions about some of our more recent observations on 
+&lt;a href=&#34;https://www.nasa.gov/feature/interstellar-comet-borisov-reveals-its-chemistry-and-possible-origins&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comet Borisov&lt;/a&gt;, Comet Atlas, and 1998 OR2. Ask us anything.&lt;/p&gt;
+&lt;p&gt;Join us at 4:00 p.m. ET on Tuesday, April 28, to ask anything about these enigmatic objects zipping into our view. Is Comet Borisov really from outside our solar system? How does it compare to the other interstellar visitor ‘Oumuamua? What is it made of? What’s causing Comet Atlas to fall apart? How close is 1998 OR2 from Earth right now? We’d love to answer your questions about these, and more!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kelly Fast Near-Earth Object Observations, Program Manager, NASA HQ&lt;/li&gt;
+&lt;li&gt;Lindley Johnson, Planetary Defense Officer, NASA HQ&lt;/li&gt;
+&lt;li&gt;Lucas Paganini, Planetary Scientist, NASA HQ&lt;/li&gt;
+&lt;li&gt;Dennis Bodewits, Associate Professor of Physics, Auburn University&lt;/li&gt;
+&lt;li&gt;Zexi Xing, Graduate Student, University of Hong Kong and Auburn University&lt;/li&gt;
+&lt;li&gt;Martin Cordiner, NASA Goddard astrochemist who led the Borisov ALMA observations described in April 20 paper in Nature Astronomy&lt;/li&gt;
+&lt;li&gt;Stefanie Milam, NASA Goddard planetary scientist and co-author of the April 20 paper on Borisov in Nature Astronomy&lt;/li&gt;
+&lt;li&gt;Max Mutchler, Principal Staff Scientist, Space Telescope Science Institute&lt;/li&gt;
+&lt;li&gt;Quanzhi Ye, Visiting Assistant Research Scientist, University of Maryland&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Possible:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Harold Weaver, planetary astronomer, Johns Hopkins Applied Physics Lab&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Congrats to my 1st first-author paper and 1st NASA media press!</title>
+      <link>https://zexixing.github.io/news/first-paper/</link>
+      <pubDate>Mon, 27 Apr 2020 12:00:00 +0000</pubDate>
+      <guid>https://zexixing.github.io/news/first-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dennis, thank you for all of your encouragement, trust, patience, promotion, kindness, helpful guide and many others in my first paper, also for the whole duration since I planned to visit Auburn! We indeed did an excellent job! Cheers!</title>
+      <link>https://zexixing.github.io/announcements/first_paper_dennis/</link>
+      <pubDate>Mon, 27 Apr 2020 12:00:00 +0000</pubDate>
+      <guid>https://zexixing.github.io/announcements/first_paper_dennis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeanette and Scott, thank you very sincerely for your huge effort, responsible carefulness and high efficiency for our Swift-Borisov NASA media press!</title>
+      <link>https://zexixing.github.io/announcements/nasa_media_jeanette_scott/</link>
+      <pubDate>Mon, 27 Apr 2020 12:00:00 +0000</pubDate>
+      <guid>https://zexixing.github.io/announcements/nasa_media_jeanette_scott/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Water production rates and activity of interstellar comet 2I/Borisov</title>
+      <link>https://zexixing.github.io/publication/swift_borisov/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://zexixing.github.io/publication/swift_borisov/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/BtmYIzJuSI4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Congrats to my 1st Nature paper (coauthor ;D)! Congrats Dennis!</title>
       <link>https://zexixing.github.io/news/first-nature/</link>
       <pubDate>Mon, 20 Apr 2020 12:00:00 +0000</pubDate>
       <guid>https://zexixing.github.io/news/first-nature/</guid>
@@ -94,14 +157,6 @@
       <link>https://zexixing.github.io/project/asteroids-grism/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://zexixing.github.io/project/asteroids-grism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Water production rates and activity of interstellar comet 2I/Borisov</title>
-      <link>https://zexixing.github.io/publication/swift_borisov/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://zexixing.github.io/publication/swift_borisov/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://zexixing.github.io/tag/media-press/</link>
       <atom:link href="https://zexixing.github.io/tag/media-press/index.xml" rel="self" type="application/rss+xml" />
     <description>Media Press</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Zexi Xing | 邢泽曦</copyright><lastBuildDate>Mon, 20 Apr 2020 12:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Zexi Xing | 邢泽曦</copyright><lastBuildDate>Mon, 27 Apr 2020 12:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zexixing.github.io/images/icon_hua4270de9ebc4c670f64478251edcb5a0_66059_512x512_fill_lanczos_center_2.png</url>
       <title>Media Press</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Congrats to my first Nature paper (coauthor ;D)! Congrats Dennis!</title>
+      <title>Congrats to my 1st first-author paper and 1st NASA media press!</title>
+      <link>https://zexixing.github.io/news/first-paper/</link>
+      <pubDate>Mon, 27 Apr 2020 12:00:00 +0000</pubDate>
+      <guid>https://zexixing.github.io/news/first-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Congrats to my 1st Nature paper (coauthor ;D)! Congrats Dennis!</title>
       <link>https://zexixing.github.io/news/first-nature/</link>
       <pubDate>Mon, 20 Apr 2020 12:00:00 +0000</pubDate>
       <guid>https://zexixing.github.io/news/first-nature/</guid>
