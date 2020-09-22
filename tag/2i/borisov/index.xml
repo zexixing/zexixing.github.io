@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2I/Borisov | Zexi Xing | 邢泽曦</title>
+    <link>https://zexixing.github.io/tag/2i/borisov/</link>
+      <atom:link href="https://zexixing.github.io/tag/2i/borisov/index.xml" rel="self" type="application/rss+xml" />
+    <description>2I/Borisov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Zexi Xing | 邢泽曦</copyright>
+    <image>
+      <url>https://zexixing.github.io/images/icon_hua4270de9ebc4c670f64478251edcb5a0_66059_512x512_fill_lanczos_center_2.png</url>
+      <title>2I/Borisov</title>
+      <link>https://zexixing.github.io/tag/2i/borisov/</link>
+    </image>
+    
+    <item>
+      <title>EPSC2020 Talk - 993 Activities and origins of interstellar comet 2I/Borisov</title>
+      <link>https://zexixing.github.io/talk/epsc2020/</link>
+      <pubDate>Tue, 22 Sep 2020 10:40:00 +0000</pubDate>
+      <guid>https://zexixing.github.io/talk/epsc2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
