@@ -1,19 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Zexi Xing | 邢泽曦</title>
+    <title>Professional Activities | Zexi Xing | 邢泽曦</title>
     <link>https://zexixing.github.io/talk/</link>
       <atom:link href="https://zexixing.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Zexi Xing | 邢泽曦</copyright><lastBuildDate>Tue, 22 Sep 2020 10:40:00 +0000</lastBuildDate>
+    <description>Professional Activities</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Zexi Xing | 邢泽曦</copyright><lastBuildDate>Mon, 04 Oct 2021 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zexixing.github.io/images/icon_hua4270de9ebc4c670f64478251edcb5a0_66059_512x512_fill_lanczos_center_2.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Professional Activities</title>
       <link>https://zexixing.github.io/talk/</link>
     </image>
     
     <item>
-      <title>EPSC2020 Talk - 993 Activities and origins of interstellar comet 2I/Borisov</title>
+      <title>Talk - DPS2021 - 101.05D Ultraviolet spectral reflectance of asteroids</title>
+      <link>https://zexixing.github.io/talk/dps2021/</link>
+      <pubDate>Mon, 04 Oct 2021 13:00:00 +0000</pubDate>
+      <guid>https://zexixing.github.io/talk/dps2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk - Chinese Planetary Science Conference 2021 - Activities and origins of interstellar comet 2I/Borisov</title>
+      <link>https://zexixing.github.io/talk/planet2021/</link>
+      <pubDate>Sat, 19 Jun 2021 17:45:00 +0000</pubDate>
+      <guid>https://zexixing.github.io/talk/planet2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk - SEGSA 2021 - Ultraviolet spectral reflectance of 16 asteroids by Swift</title>
+      <link>https://zexixing.github.io/talk/gsa2021/</link>
+      <pubDate>Thu, 01 Apr 2021 10:20:00 +0000</pubDate>
+      <guid>https://zexixing.github.io/talk/gsa2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk - DPS2020 - 313.03 Water Production Rates and Activity of Interstellar Comet 2I/Borisov</title>
+      <link>https://zexixing.github.io/talk/dps2020/</link>
+      <pubDate>Wed, 28 Oct 2020 15:30:00 +0000</pubDate>
+      <guid>https://zexixing.github.io/talk/dps2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk - EPSC2020 - 993 Activities and origins of interstellar comet 2I/Borisov</title>
       <link>https://zexixing.github.io/talk/epsc2020/</link>
       <pubDate>Tue, 22 Sep 2020 10:40:00 +0000</pubDate>
       <guid>https://zexixing.github.io/talk/epsc2020/</guid>
@@ -25,24 +57,7 @@
       <link>https://zexixing.github.io/talk/borisov_reddit_ama/</link>
       <pubDate>Tue, 28 Apr 2020 15:00:00 +0000</pubDate>
       <guid>https://zexixing.github.io/talk/borisov_reddit_ama/</guid>
-      <description>&lt;p&gt;We are the NASA, ALMA, and university scientists studying comets and asteroids, here to answer your questions about some of our more recent observations on 
-&lt;a href=&#34;https://www.nasa.gov/feature/interstellar-comet-borisov-reveals-its-chemistry-and-possible-origins&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comet Borisov&lt;/a&gt;, Comet Atlas, and 1998 OR2. Ask us anything.&lt;/p&gt;
-&lt;p&gt;Join us at 4:00 p.m. ET on Tuesday, April 28, to ask anything about these enigmatic objects zipping into our view. Is Comet Borisov really from outside our solar system? How does it compare to the other interstellar visitor ‘Oumuamua? What is it made of? What’s causing Comet Atlas to fall apart? How close is 1998 OR2 from Earth right now? We’d love to answer your questions about these, and more!&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Kelly Fast Near-Earth Object Observations, Program Manager, NASA HQ&lt;/li&gt;
-&lt;li&gt;Lindley Johnson, Planetary Defense Officer, NASA HQ&lt;/li&gt;
-&lt;li&gt;Lucas Paganini, Planetary Scientist, NASA HQ&lt;/li&gt;
-&lt;li&gt;Dennis Bodewits, Associate Professor of Physics, Auburn University, Auburn AL. PI and lead author of the Hubble spectroscopy observations published in Nature Astronomy. PI and co-author of Swift observations published in the Astrophysical Journal Letters.&lt;/li&gt;
-&lt;li&gt;Zexi Xing, Graduate student, University of Hong Kong and Auburn University, lead author on Borisov Swift observations described in an April 27 paper in The Astrophysical Journal Letters&lt;/li&gt;
-&lt;li&gt;Martin Cordiner, NASA Goddard astrochemist who led the Borisov ALMA observations described in April 20 paper in Nature Astronomy&lt;/li&gt;
-&lt;li&gt;Stefanie Milam, Planetary Scientist at NASA’s Goddard Space Flight Center, Greenbelt, MD.  PI of the 
-&lt;a href=&#34;https://solarsystem.nasa.gov/news/1205/nasa-peeks-inside-first-interstellar-comet-2iborisov-revealing-its-alien-composition/?utm_source=TWITTER&amp;amp;utm_medium=NASASolarSystem&amp;amp;utm_campaign=NASASocial&amp;amp;linkId=86943389&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ALMA observations of Interstellar Comet 2I/Borisov&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Max Mutchler, Principal Staff Scientist at Space Telescope Science Institute, Baltimore, MD. Co-investigator for HST imagings of Comet ATLAS and Comet Borisov.&lt;/li&gt;
-&lt;li&gt;Quanzhi Ye, Assistant Research Scientist at the University of Maryland. Principal and Co-Investigator Hubble programs to image Comet ATLAS (C/2019 Y4) and Comet Borisov.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Support: Sara Mitchell, Barb Mattson, Kelly Ramos, Felicia Chou, Jeanette Kazmierczak,
-Liz Landau, Alana Johnson, Josh Handal&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
