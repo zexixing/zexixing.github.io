@@ -108,22 +108,12 @@
   </url>
   
   <url>
-    <loc>https://zexixing.github.io/categories/</loc>
-    <lastmod>2020-04-27T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zexixing.github.io/news/first-paper/</loc>
     <lastmod>2020-04-27T12:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://zexixing.github.io/tag/media-press/</loc>
-    <lastmod>2020-04-27T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/category/thanks/</loc>
     <lastmod>2020-04-27T12:00:00+00:00</lastmod>
   </url>
   
@@ -324,6 +314,11 @@
   
   <url>
     <loc>https://zexixing.github.io/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/categories/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
