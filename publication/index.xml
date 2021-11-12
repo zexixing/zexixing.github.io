@@ -5,12 +5,20 @@
     <link>https://zexixing.github.io/publication/</link>
       <atom:link href="https://zexixing.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Zexi Xing | 邢泽曦</copyright><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Zexi Xing | 邢泽曦</copyright><lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zexixing.github.io/images/icon_hua4270de9ebc4c670f64478251edcb5a0_66059_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://zexixing.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Variable X-Ray Emission of Comet 46P/Wirtanen</title>
+      <link>https://zexixing.github.io/publication/xray_46p/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://zexixing.github.io/publication/xray_46p/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Water production rates and activity of interstellar comet 2I/Borisov</title>
