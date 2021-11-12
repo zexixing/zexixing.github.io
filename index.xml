@@ -5,7 +5,7 @@
     <link>https://zexixing.github.io/</link>
       <atom:link href="https://zexixing.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Zexi Xing | 邢泽曦</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Zexi Xing | 邢泽曦</copyright><lastBuildDate>Mon, 04 Oct 2021 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Zexi Xing | 邢泽曦</copyright><lastBuildDate>Mon, 27 Apr 2020 12:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zexixing.github.io/images/icon_hua4270de9ebc4c670f64478251edcb5a0_66059_512x512_fill_lanczos_center_2.png</url>
       <title>Zexi Xing | 邢泽曦</title>
@@ -87,7 +87,7 @@
     </item>
     
     <item>
-      <title>Talk - EPSC2020 - [993] Activities and origins of interstellar comet 2I/Borisov</title>
+      <title>Talk - EPSC2020 - [993, media interest] Activities and origins of interstellar comet 2I/Borisov</title>
       <link>https://zexixing.github.io/talk/epsc2020/</link>
       <pubDate>Tue, 22 Sep 2020 10:40:00 +0000</pubDate>
       <guid>https://zexixing.github.io/talk/epsc2020/</guid>
@@ -115,18 +115,38 @@
     
     <item>
       <title></title>
-      <link>https://zexixing.github.io/announcements/first_paper_dennis/</link>
+      <link>https://zexixing.github.io/backup/first_paper_dennis/</link>
       <pubDate>Mon, 27 Apr 2020 12:00:00 +0000</pubDate>
-      <guid>https://zexixing.github.io/announcements/first_paper_dennis/</guid>
+      <guid>https://zexixing.github.io/backup/first_paper_dennis/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zexixing.github.io/announcements/nasa_media_jeanette_scott/</link>
+      <link>https://zexixing.github.io/backup/nasa_media_jeanette_scott/</link>
       <pubDate>Mon, 27 Apr 2020 12:00:00 +0000</pubDate>
-      <guid>https://zexixing.github.io/announcements/nasa_media_jeanette_scott/</guid>
+      <guid>https://zexixing.github.io/backup/nasa_media_jeanette_scott/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zexixing.github.io/thanks/</link>
+      <pubDate>Mon, 27 Apr 2020 12:00:00 +0000</pubDate>
+      <guid>https://zexixing.github.io/thanks/</guid>
+      <description>&lt;font face=&#34;rose&#34; color=&#34;#A2A2A2&#34;&gt;
+&lt;p&gt;First, thank you very much to be interested in my work and browse my website.&lt;/p&gt;
+&lt;p&gt;On my life journey, there have been an inestimable number of people who ever helped, encouraged, and/or reasonably criticized me. They are a big part of my life and made me who I am. In order to sincerely thank them and remember their kindness as long as I can, I built this personal website on Apr. 2020, and enriched it with some academic progress afterwards.&lt;/p&gt;
+&lt;p&gt;Unfortunately, I received others&amp;rsquo; kindness so often that I can never list all the names, let alone many people helped me but I have never known. It is because of my omissions that I did not say thanks to them here, rather than what they did did not deserve appreciation. I apologize for this.&lt;/p&gt;
+&lt;p&gt;I really hope I can take these kindness as examples, and convey the kindness to more people.&lt;/p&gt;
+&lt;/font&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;font face=&#34;rose&#34; color=&#34;#A2A2A2&#34;&gt; *I left some key information out for privacy protection when necessary.&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face=&#34;rose&#34; color=&#34;#A2A2A2&#34;&gt;[2021-Nov-12] I did not update this page, and even the whole website from 2020-Apr-27 to 2021-Nov-12 because of the inconvenience of website deployment. I reorganized the frame these days and have made it more simple, and restarted to regularly update this page today.&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font color=&#34;#A2A2A2&#34;&gt;[2020-Apr-27]&lt;/font&gt; &lt;strong&gt;Dennis&lt;/strong&gt;, thank you for all of your encouragement, trust, patience, kindness, helpful guide and many others in my first paper, also for the whole duration since I planned to visit Auburn! We indeed did an excellent job! Cheers!&lt;/p&gt;
+&lt;p&gt;&lt;font color=&#34;#A2A2A2&#34;&gt;[2020-Apr-27]&lt;/font&gt; &lt;strong&gt;Jeanette&lt;/strong&gt; and &lt;strong&gt;Scott&lt;/strong&gt;, thank you very sincerely for your huge effort, responsible carefulness and high efficiency for our 
+&lt;a href=&#34;https://www.nasa.gov/feature/goddard/2020/nasa-s-swift-mission-tallied-water-from-interstellar-comet-borisov&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Swift-Borisov NASA media press&lt;/a&gt;!&lt;/p&gt;
+</description>
     </item>
     
     <item>
