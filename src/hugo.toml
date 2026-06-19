@@ -1,0 +1,11 @@
+baseURL = "https://zexixing.github.io/"
+locale = "en-US"
+title = "Zexi Xing | 邢泽曦"
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term", "section", "RSS"]
+
+[params]
+description = "Postdoctoral Fellow at Auburn University studying cometary volatiles, interstellar comets, and ultraviolet small-body observations."
+author = "Zexi Xing | 邢泽曦"
+themeColor = "#2f5f4f"
+images = ["/images/avatar.jpg"]

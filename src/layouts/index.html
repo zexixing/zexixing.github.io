@@ -1,0 +1,194 @@
+{{- $site := hugo.Data.site -}}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ $site.name }}</title>
+  <meta name="description" content="{{ site.Params.description }}">
+  <meta name="author" content="{{ $site.name }}">
+  <meta name="theme-color" content="{{ site.Params.themeColor }}">
+  <meta property="og:title" content="{{ $site.name }}">
+  <meta property="og:description" content="{{ site.Params.description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ site.BaseURL }}">
+  <meta property="og:image" content="{{ "/images/avatar.jpg" | absURL }}">
+  <meta name="twitter:card" content="summary">
+  <link rel="canonical" href="{{ site.BaseURL }}">
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/icons/icon-32.png">
+  <link rel="apple-touch-icon" sizes="192x192" href="/images/icons/icon-192.png">
+  <link rel="stylesheet" href="/css/site.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="{{ $site.short_name }} home">
+      <img src="/images/icons/icon-32.png" alt="" width="32" height="32">
+      <span>{{ $site.short_name }}</span>
+    </a>
+    <nav class="site-nav" aria-label="Primary navigation">
+      {{- range $site.nav }}
+        <a href="{{ .href }}">{{ .label }}</a>
+      {{- end }}
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero section-band" id="about">
+      <div class="wrap hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow">{{ $site.role }}</p>
+          <h1>{{ $site.name }}</h1>
+          <p class="tagline">{{ $site.tagline }}</p>
+          <p class="lead">{{ $site.description }}</p>
+          <div class="hero-actions" aria-label="Profile links">
+            {{- range $site.profiles }}
+              <a class="button" href="{{ .url }}" target="_blank" rel="noopener">{{ .label }}</a>
+            {{- end }}
+          </div>
+        </div>
+        <div class="portrait-panel">
+          <img class="portrait" src="/images/avatar.jpg" alt="Portrait of Zexi Xing">
+          <ul class="quick-list">
+            {{- range $site.highlights }}
+              <li>{{ . }}</li>
+            {{- end }}
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="education-title">
+      <div class="wrap compact-grid">
+        <div>
+          <p class="eyebrow">Current Focus</p>
+          <h2 id="education-title">Small bodies in ultraviolet light</h2>
+        </div>
+        <div class="text-stack">
+          <p>My work sits between planetary science, observatory operations, calibration, and software. The scientific question is simple to state but hard to measure: how do small bodies release water and other volatiles as they evolve?</p>
+          <div class="timeline" aria-label="Education">
+            {{- range $site.education }}
+              <div class="timeline-row">
+                <span>{{ .years }}</span>
+                <strong>{{ .degree }}</strong>
+                <em>{{ .institution }}</em>
+              </div>
+            {{- end }}
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-tint" id="research" aria-labelledby="research-title">
+      <div class="wrap">
+        <div class="section-heading">
+          <p class="eyebrow">Research</p>
+          <h2 id="research-title">Volatiles, interstellar comets, and UV toolchains</h2>
+        </div>
+        <div class="card-grid research-grid">
+          {{- range $site.research }}
+            <article class="card">
+              <h3>{{ .title }}</h3>
+              <p>{{ .text }}</p>
+            </article>
+          {{- end }}
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="publications" aria-labelledby="publications-title">
+      <div class="wrap">
+        <div class="section-heading split-heading">
+          <div>
+            <p class="eyebrow">Selected Publications</p>
+            <h2 id="publications-title">Representative papers</h2>
+          </div>
+          <p>{{ $site.publications_intro }}</p>
+        </div>
+        <div class="publication-list">
+          {{- range $site.publications }}
+            <article class="publication">
+              <div class="pub-year">{{ .year }}</div>
+              <div class="pub-body">
+                <div class="pub-meta">
+                  {{- with .status }}<span>{{ . }}</span>{{ end -}}
+                  <span>{{ .venue }}</span>
+                </div>
+                <h3>{{ .title }}</h3>
+                <p class="authors">{{ .authors }}</p>
+                <p>{{ .summary }}</p>
+                {{- with .links }}
+                  <div class="link-row">
+                    {{- range . }}
+                      <a href="{{ .url }}" target="_blank" rel="noopener">{{ .label }}</a>
+                    {{- end }}
+                  </div>
+                {{- end }}
+              </div>
+            </article>
+          {{- end }}
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-tint" id="activities" aria-labelledby="activities-title">
+      <div class="wrap compact-grid">
+        <div>
+          <p class="eyebrow">Selected Activities</p>
+          <h2 id="activities-title">Recent talks and outreach</h2>
+        </div>
+        <div class="activity-list">
+          {{- range $site.activities }}
+            <article class="activity-item">
+              <span>{{ .date }}</span>
+              <h3>{{ .title }}</h3>
+              <p>{{ .where }}</p>
+            </article>
+          {{- end }}
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="personal" aria-labelledby="personal-title">
+      <div class="wrap personal-grid">
+        <div class="personal-copy">
+          <p class="eyebrow">Personal</p>
+          <h2 id="personal-title">A small visual notebook</h2>
+          <p>{{ $site.personal.text }}</p>
+          <a class="button subtle" href="{{ $site.personal.link_url }}" target="_blank" rel="noopener">{{ $site.personal.link_label }}</a>
+        </div>
+        <div class="photo-strip" aria-label="Selected personal photographs">
+          {{- range $site.personal.photos }}
+            <img src="{{ .src }}" alt="{{ .alt }}">
+          {{- end }}
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-contact" id="contact" aria-labelledby="contact-title">
+      <div class="wrap contact-grid">
+        <div>
+          <p class="eyebrow">Contact</p>
+          <h2 id="contact-title">Email and mailing address</h2>
+          <p class="contact-line"><a href="mailto:{{ $site.email }}">{{ $site.email }}</a></p>
+          <address>
+            {{- range $site.address }}
+              {{ . }}<br>
+            {{- end }}
+          </address>
+        </div>
+        <div class="map-frame">
+          <iframe title="Map to Leach Science Center, Auburn University" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.openstreetmap.org/export/embed.html?bbox=-85.4945%2C32.5945%2C-85.4821%2C32.6026&amp;layer=mapnik&amp;marker=32.59856%2C-85.48831"></iframe>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <span>{{ $site.name }}</span>
+      <a href="#top">Back to top</a>
+    </div>
+  </footer>
+</body>
+</html>
