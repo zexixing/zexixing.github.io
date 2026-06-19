@@ -1,7 +1,0 @@
-.DS_Store
-.hugo-build/
-.hugo-cache/
-.preview-shots/
-src/.hugo_build.lock
-resources/_gen/
-*_application_*.pdf
