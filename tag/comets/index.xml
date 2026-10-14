@@ -5,7 +5,7 @@
     <link>https://zexixing.github.io/tag/comets/</link>
       <atom:link href="https://zexixing.github.io/tag/comets/index.xml" rel="self" type="application/rss+xml" />
     <description>Comets</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Zexi Xing | 邢泽曦</copyright><lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Zexi Xing | 邢泽曦</copyright><lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zexixing.github.io/images/icon_hua4270de9ebc4c670f64478251edcb5a0_66059_512x512_fill_lanczos_center_2.png</url>
       <title>Comets</title>
@@ -13,10 +13,82 @@
     </image>
     
     <item>
+      <title>Cometary water and volatile evolution</title>
+      <link>https://zexixing.github.io/project/comets/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://zexixing.github.io/project/comets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interstellar comets</title>
+      <link>https://zexixing.github.io/project/swcx/</link>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://zexixing.github.io/project/swcx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contributed Talk - The Integrated Science of Comets - Following the Evolution of Cometary Water Activity with Swift: Lessons from 3I/ATLAS</title>
+      <link></link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contributed Talk - AGU Fall Meeting 2025 - Constraining Water Production Evolution in the Third Interstellar Object 3I/ATLAS</title>
+      <link></link>
+      <pubDate>Mon, 15 Dec 2025 13:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited Seminar - Shanghai Astronomical Observatory ET Science Seminar Series</title>
+      <link></link>
+      <pubDate>Wed, 01 Oct 2025 09:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Water Production Rates of the Interstellar Object 3I/ATLAS</title>
+      <link></link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pre-perihelion radio observations of comet 12P/Pons-Brooks with the Tianma Radio Telescope</title>
+      <link></link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited Seminar - Nanjing University</title>
+      <link></link>
+      <pubDate>Sat, 20 Jan 2024 13:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited Seminar - Purple Mountain Observatory</title>
+      <link></link>
+      <pubDate>Wed, 10 Jan 2024 13:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Variable X-Ray Emission of Comet 46P/Wirtanen</title>
-      <link>https://zexixing.github.io/publication/xray_46p/</link>
+      <link></link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://zexixing.github.io/publication/xray_46p/</guid>
+      <guid></guid>
       <description></description>
     </item>
     
@@ -53,48 +125,18 @@
     </item>
     
     <item>
-      <title>Congrats to my 1st first-author paper and 1st NASA media press!</title>
-      <link>https://zexixing.github.io/news/first-paper/</link>
-      <pubDate>Mon, 27 Apr 2020 12:00:00 +0000</pubDate>
-      <guid>https://zexixing.github.io/news/first-paper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Water production rates and activity of interstellar comet 2I/Borisov</title>
-      <link>https://zexixing.github.io/publication/swift_borisov/</link>
+      <link></link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://zexixing.github.io/publication/swift_borisov/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/BtmYIzJuSI4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Congrats to my 1st Nature Astro. paper (coauthor ;D)! Congrats the team!</title>
-      <link>https://zexixing.github.io/news/first-nature/</link>
-      <pubDate>Mon, 20 Apr 2020 12:00:00 +0000</pubDate>
-      <guid>https://zexixing.github.io/news/first-nature/</guid>
-      <description>&lt;p&gt;Dennis Bodewits led the team to observe CO signal of 2I/Borisov. We found that 2I has much more abundant CO than all known our own comets in inner solar system. Because CO can evaporate in low temperate, we speculated that 2I formed in an environment which is cold, enriched in carbon (chemically distinct from our own), and has sufficient dynamical interactions to eject 2I. M-type star systems can well fit the requirements. This result was published on nature(&lt;a href=&#34;https://www.nature.com/articles/s41550-020-1095-2)&#34;&gt;https://www.nature.com/articles/s41550-020-1095-2)&lt;/a&gt;. This is my first &lt;em&gt;Nature&lt;/em&gt; paper (though only a coauthor:P)!&lt;/p&gt;
-</description>
+      <guid></guid>
+      <description></description>
     </item>
     
     <item>
       <title>The carbon monoxide-rich interstellar comet 2I/Borisov</title>
-      <link>https://zexixing.github.io/publication/hst_borisov/</link>
+      <link></link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://zexixing.github.io/publication/hst_borisov/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UV observations of comets</title>
-      <link>https://zexixing.github.io/project/comets/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://zexixing.github.io/project/comets/</guid>
+      <guid></guid>
       <description></description>
     </item>
     
@@ -103,22 +145,6 @@
       <link>https://zexixing.github.io/talk/y4_atel13634/</link>
       <pubDate>Tue, 14 Apr 2020 13:00:00 +0000</pubDate>
       <guid>https://zexixing.github.io/talk/y4_atel13634/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interstellar comet 2I/Borisov</title>
-      <link>https://zexixing.github.io/backup/project/2i-borisov/</link>
-      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://zexixing.github.io/backup/project/2i-borisov/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Solar Wind Charge Exchange (SWCX) of comets</title>
-      <link>https://zexixing.github.io/project/swcx/</link>
-      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://zexixing.github.io/project/swcx/</guid>
       <description></description>
     </item>
     

@@ -27,7 +27,9 @@
   
     
   
-  <meta name="description" content="Because of atmosphere&#39;s absorption, Ultraviolet (UV) radiation must be observed from space, which is much harder than ground observations. Because of this, we still knows quite little about UV spectrum of asteroids, which are usually classified according to their optical/IR spectra. Fortunately, Swift uniquely has the UV capability and time to measure UV spectra of ~20 asteroids. **Will their types keep the same in UV? Will there be some new trends? How will the results affect the understanding of the solar system?** We are extracting the spectra, let&#39;s look forward to the results!">
+  <meta name="description" content="Comets and asteroids move across the sky, and a comet&#39;s diffuse coma does not behave like a point source. I develop observing strategies, calibration corrections, and reduction methods that adapt Swift/UVOT to these targets, from separating faint cometary emission from background stars to extracting ultraviolet spectra blurred by motion. The aim is to turn challenging observations into reliable measurements of gas activity and asteroid reflectance.
+
+I share these methods through [uvotimgpy](https://github.com/zexixing/uvotimgpy), a Python toolkit for small-body imaging and analysis, and [**UVOTPY-for-smallbody**](https://github.com/zexixing/UVOTPY-for-smallbody), extensions to UVOTPY for extracting grism spectra of moving targets and extended comae.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://zexixing.github.io/project/asteroids-grism/">
@@ -274,8 +276,10 @@
   
   <meta property="og:site_name" content="Zexi Xing | 邢泽曦">
   <meta property="og:url" content="https://zexixing.github.io/project/asteroids-grism/">
-  <meta property="og:title" content="UV spectra of asteroids | Zexi Xing | 邢泽曦">
-  <meta property="og:description" content="Because of atmosphere&#39;s absorption, Ultraviolet (UV) radiation must be observed from space, which is much harder than ground observations. Because of this, we still knows quite little about UV spectrum of asteroids, which are usually classified according to their optical/IR spectra. Fortunately, Swift uniquely has the UV capability and time to measure UV spectra of ~20 asteroids. **Will their types keep the same in UV? Will there be some new trends? How will the results affect the understanding of the solar system?** We are extracting the spectra, let&#39;s look forward to the results!"><meta property="og:image" content="https://zexixing.github.io/project/asteroids-grism/featured.png">
+  <meta property="og:title" content="UV small-body observing toolchain | Zexi Xing | 邢泽曦">
+  <meta property="og:description" content="Comets and asteroids move across the sky, and a comet&#39;s diffuse coma does not behave like a point source. I develop observing strategies, calibration corrections, and reduction methods that adapt Swift/UVOT to these targets, from separating faint cometary emission from background stars to extracting ultraviolet spectra blurred by motion. The aim is to turn challenging observations into reliable measurements of gas activity and asteroid reflectance.
+
+I share these methods through [uvotimgpy](https://github.com/zexixing/uvotimgpy), a Python toolkit for small-body imaging and analysis, and [**UVOTPY-for-smallbody**](https://github.com/zexixing/UVOTPY-for-smallbody), extensions to UVOTPY for extracting grism spectra of moving targets and extended comae."><meta property="og:image" content="https://zexixing.github.io/project/asteroids-grism/featured.png">
   <meta property="twitter:image" content="https://zexixing.github.io/project/asteroids-grism/featured.png"><meta property="og:locale" content="en-us">
   
     
@@ -305,7 +309,7 @@
     "@type": "WebPage",
     "@id": "https://zexixing.github.io/project/asteroids-grism/"
   },
-  "headline": "UV spectra of asteroids",
+  "headline": "UV small-body observing toolchain",
   
   "image": [
     "https://zexixing.github.io/project/asteroids-grism/featured.png"
@@ -327,7 +331,7 @@
       "url": "https://zexixing.github.io/images/icon_hua4270de9ebc4c670f64478251edcb5a0_66059_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "Because of atmosphere's absorption, Ultraviolet (UV) radiation must be observed from space, which is much harder than ground observations. Because of this, we still knows quite little about UV spectrum of asteroids, which are usually classified according to their optical/IR spectra. Fortunately, Swift uniquely has the UV capability and time to measure UV spectra of ~20 asteroids. **Will their types keep the same in UV? Will there be some new trends? How will the results affect the understanding of the solar system?** We are extracting the spectra, let's look forward to the results!"
+  "description": "Comets and asteroids move across the sky, and a comet's diffuse coma does not behave like a point source. I develop observing strategies, calibration corrections, and reduction methods that adapt Swift/UVOT to these targets, from separating faint cometary emission from background stars to extracting ultraviolet spectra blurred by motion. The aim is to turn challenging observations into reliable measurements of gas activity and asteroid reflectance.\n\nI share these methods through [uvotimgpy](https://github.com/zexixing/uvotimgpy), a Python toolkit for small-body imaging and analysis, and [**UVOTPY-for-smallbody**](https://github.com/zexixing/UVOTPY-for-smallbody), extensions to UVOTPY for extracting grism spectra of moving targets and extended comae."
 }
 </script>
 
@@ -345,7 +349,7 @@
 
 
 
-  <title>UV spectra of asteroids | Zexi Xing | 邢泽曦</title>
+  <title>UV small-body observing toolchain | Zexi Xing | 邢泽曦</title>
 
 </head>
 
@@ -531,94 +535,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#talks"><span>Activities</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#news"><span>News</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#others"><span>Others</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#thanks"><span>Thanks</span></a>
+          <a class="nav-link " href="/#others"><span>Personal</span></a>
         </li>
 
         
@@ -721,7 +638,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>UV spectra of asteroids</h1>
+  <h1>UV small-body observing toolchain</h1>
 
   
 
@@ -841,7 +758,7 @@
 
       <div class="media-body">
         <h5 class="card-title"><a href="https://zexixing.github.io/">Zexi Xing | 邢泽曦</a></h5>
-        <h6 class="card-subtitle">PhD student @ astrophysics</h6>
+        <h6 class="card-subtitle">Postdoctoral Fellow @ astronomy</h6>
         
         <ul class="network-icon" aria-hidden="true">
   
@@ -878,7 +795,20 @@
     
     
     
+    
+    
+    
+    
       
+    
+    <li>
+      <a href="https://orcid.org/0000-0003-2399-5613" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
     
     
     
@@ -887,8 +817,8 @@
       
     
     <li>
-      <a href="https://github.com/zexixing" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
+      <a href="https://ui.adsabs.harvard.edu/public-libraries/AbI4GMggRhuIulaVFY3GSg" target="_blank" rel="noopener">
+        <i class="ai ai-ads"></i>
       </a>
     </li>
   
@@ -904,8 +834,8 @@
       
     
     <li>
-      <a href="https://500px.com/zexixing0604" target="_blank" rel="noopener">
-        <i class="fab fa-500px"></i>
+      <a href="https://github.com/zexixing" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
       </a>
     </li>
   
@@ -960,15 +890,13 @@
     <h3>Related</h3>
     <ul>
       
-      <li><a href="/project/comets/">UV observations of comets</a></li>
+      <li><a href="/project/comets/">Cometary water and volatile evolution</a></li>
       
-      <li><a href="/backup/project/2i-borisov/">Interstellar comet 2I/Borisov</a></li>
+      <li><a href="/project/swcx/">Interstellar comets</a></li>
       
-      <li><a href="/publication/hst_borisov/">The carbon monoxide-rich interstellar comet 2I/Borisov</a></li>
+      <li><a href="">The carbon monoxide-rich interstellar comet 2I/Borisov</a></li>
       
       <li><a href="/talk/y4_atel13634/">First Estimate of Water Production Rates of Comet C/2019 Y4 (ATLAS) from SWIFT/UVOT observations</a></li>
-      
-      <li><a href="/backup/project/calibration/">Calibration of an X-ray telescope</a></li>
       
     </ul>
   </div>

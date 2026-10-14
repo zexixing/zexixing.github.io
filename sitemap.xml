@@ -3,42 +3,237 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zexixing.github.io/backup/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>https://zexixing.github.io/project/comets/</loc>
+    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zexixing.github.io/backup/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <loc>https://zexixing.github.io/project/swcx/</loc>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zexixing.github.io/backup/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>https://zexixing.github.io/project/asteroids-grism/</loc>
+    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zexixing.github.io/publication-type/2/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <loc></loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zexixing.github.io/authors/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <loc>https://zexixing.github.io/tag/outreach/</loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/talk/</loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/tag/selected-activity/</loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/tags/</loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/tag/talk/</loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/</loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://zexixing.github.io/tag/comets/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zexixing.github.io/author/damian-j.-christian/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <loc></loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/tag/interstellar-objects/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2026-06-10T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/tag/small-bodies/</loc>
+    <lastmod>2026-06-10T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2026-05-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2025-12-15T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2025-10-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/publication-type/2/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/authors/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://zexixing.github.io/author/dennis-bodewits/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/author/john-w.-noonan/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/publication_types/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/publication/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/tag/selected-publication/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/author/shawn-oset/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/tag/uv/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/author/zexi-xing-%E9%82%A2%E6%B3%BD%E6%9B%A6/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/author/bin-yang/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/author/jian-yang-li/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/author/jianchun-shi/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/author/juncen-li/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/author/man-to-hui/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/author/ruining-zhao/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/author/xian-shi/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/author/yuehua-ma/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/author/zhen-wang/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2024-01-20T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2024-01-10T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/author/jeffrey-p.-morgenthaler/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/author/mohammad-saki/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zexixing.github.io/author/damian-j.-christian/</loc>
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,22 +253,7 @@
   </url>
   
   <url>
-    <loc>https://zexixing.github.io/publication_types/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/publication/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/tags/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/publication/xray_46p/</loc>
+    <loc></loc>
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,32 +263,12 @@
   </url>
   
   <url>
-    <loc>https://zexixing.github.io/author/zexi-xing-%E9%82%A2%E6%B3%BD%E6%9B%A6/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zexixing.github.io/tag/asteroids/</loc>
     <lastmod>2021-10-04T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zexixing.github.io/talk/</loc>
-    <lastmod>2021-10-04T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/tag/talk/</loc>
-    <lastmod>2021-10-04T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zexixing.github.io/talk/dps2021/</loc>
-    <lastmod>2021-10-04T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/tag/uv/</loc>
     <lastmod>2021-10-04T13:00:00+00:00</lastmod>
   </url>
   
@@ -143,68 +303,8 @@
   </url>
   
   <url>
-    <loc>https://zexixing.github.io/tag/astronomy/</loc>
-    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/news/poster/</loc>
-    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/news/</loc>
-    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zexixing.github.io/talk/borisov_reddit_ama/</loc>
     <lastmod>2020-04-28T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/tag/outreach/</loc>
-    <lastmod>2020-04-28T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/backup/first_paper_dennis/</loc>
-    <lastmod>2020-04-27T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/backup/nasa_media_jeanette_scott/</loc>
-    <lastmod>2020-04-27T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/thanks/</loc>
-    <lastmod>2020-04-27T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/backup/</loc>
-    <lastmod>2020-04-27T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/news/first-paper/</loc>
-    <lastmod>2020-04-27T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/tag/media-press/</loc>
-    <lastmod>2020-04-27T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/</loc>
-    <lastmod>2020-04-27T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/author/john-w.-noonan/</loc>
-    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -213,22 +313,12 @@
   </url>
   
   <url>
-    <loc>https://zexixing.github.io/publication/swift_borisov/</loc>
+    <loc></loc>
     <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zexixing.github.io/news/first-nature/</loc>
-    <lastmod>2020-04-20T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zexixing.github.io/author/davide-farnocchia/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/author/jian-yang-li/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -258,17 +348,7 @@
   </url>
   
   <url>
-    <loc>https://zexixing.github.io/publication/hst_borisov/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/project/comets/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/project/asteroids-grism/</loc>
+    <loc></loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -288,36 +368,6 @@
   </url>
   
   <url>
-    <loc>https://zexixing.github.io/backup/project/2i-borisov/</loc>
-    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/news/auburn/</loc>
-    <lastmod>2019-10-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/backup/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zexixing.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -325,36 +375,6 @@
   <url>
     <loc>https://zexixing.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/backup/project/calibration/</loc>
-    <lastmod>2018-12-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/tag/instruments/</loc>
-    <lastmod>2018-12-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/project/swcx/</loc>
-    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/tag/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zexixing.github.io/category/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>

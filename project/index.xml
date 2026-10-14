@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>UV observations of comets</title>
+      <title>Cometary water and volatile evolution</title>
       <link>https://zexixing.github.io/project/comets/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://zexixing.github.io/project/comets/</guid>
@@ -21,18 +21,18 @@
     </item>
     
     <item>
-      <title>UV spectra of asteroids</title>
-      <link>https://zexixing.github.io/project/asteroids-grism/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://zexixing.github.io/project/asteroids-grism/</guid>
+      <title>Interstellar comets</title>
+      <link>https://zexixing.github.io/project/swcx/</link>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://zexixing.github.io/project/swcx/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Solar Wind Charge Exchange (SWCX) of comets</title>
-      <link>https://zexixing.github.io/project/swcx/</link>
-      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://zexixing.github.io/project/swcx/</guid>
+      <title>UV small-body observing toolchain</title>
+      <link>https://zexixing.github.io/project/asteroids-grism/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://zexixing.github.io/project/asteroids-grism/</guid>
       <description></description>
     </item>
     
